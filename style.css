@@ -1,0 +1,45 @@
+body {
+
+background-color: aquamarine;
+}
+body{
+    background-image: url(image/images.jpg);
+font-weight: 800;
+}
+
+.textarea1, .textarea2 {
+    width: calc(50% - 5px);
+    height: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+
+#texto1{
+    font-size: 30px;
+    color: rgb(232, 236, 239);
+    top: 90px;
+}
+#setv1{
+    background: #b85321;
+width: 35%;
+margin-left: 8%;
+margin-top: 2%;
+height: 50px;
+border-radius: 20px;
+}
+#setv{
+border-radius: 20px;
+background-color: aqua;
+width: 35%;
+margin-left: 12%;
+margin-top: 2%;
+height: 50px;
+}
+
+
+
+
+
