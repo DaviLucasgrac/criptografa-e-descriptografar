@@ -8,6 +8,7 @@ font-weight: 800;
 }
 
 .textarea1, .textarea2 {
+    background-color:white;
     width: calc(50% - 5px);
     height: 500px;
     padding: 10px;
